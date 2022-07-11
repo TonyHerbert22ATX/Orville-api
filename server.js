@@ -9,7 +9,7 @@ const aliens = {
         homeWorld: "Earth",
         features: "rounded ears, hair on head and face (sometimes)",
         interestingFact: "Central member of the Planetary Union",
-        notableMembers: "Ed Mercer, Claire Finn, Tucker, Gordon Malloy",
+        notableMembers: ['Ed Mercer', 'Claire Finn', 'Tucker', 'Gordon Malloy'],
         image: "test",
     },
     gelatin: {
