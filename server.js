@@ -11,7 +11,7 @@ const aliens = {
         homeWorld: "Earth",
         features: "rounded ears, hair on head and face (sometimes)",
         interestingFact: "Central member of the Planetary Union",
-        notableMembers: ["Ed Mercer, Claire Finn, Tucker, Gordon Malloy"],
+        notableMembers: ['Ed Mercer', 'Claire Finn', 'Tucker', 'Gordon Malloy'],
         image: "test",
     },
     gelatin: {
@@ -39,7 +39,7 @@ const aliens = {
             "Reptillian humanoid species. They have tough, scaly skin with three bony ridges running along their skull.",
         interestingFact:
             "In Krill society, sunlight is a symbol of death, while rain and darkness are symbols of good.",
-        notableMembers: ["Anaya, Korin, Teleya, Haros, Sazeron"],
+        notableMembers: ['Anaya', 'Korin', 'Teleya','Haros', 'Sazeron'],
         image: "test",
     },
     moclan: {
@@ -49,7 +49,7 @@ const aliens = {
             "Possess light brown skin. Cranial ridges and skin spots that run along the sides and top of their heads. Naturally hairless",
         interestingFact:
             "Moclans reproduced by laying eggs. The Moclan government almost always forcibly changed the sex of a female to male shortly after birth.",
-        notableMembers: "[Bortus, Klyden, Mersa, Topa]",
+        notableMembers: ['Bortus', 'Klyden', 'Mersa', 'Topa'],
         image: "test",
     },
     xelayan: {
