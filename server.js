@@ -10,7 +10,7 @@ const aliens = {
         features: "rounded ears, hair on head and face (sometimes)",
         interestingFact: "Central member of the Planetary Union",
         notableMembers: ["Ed Mercer", "Claire Finn", "Tucker", "Gordon Malloy"],
-        image: "/Server Practice/Orville/Alara.webp",
+        image: "https://static.wikia.nocookie.net/orville/images/2/27/EMercer.jpg/revision/latest?cb=20171004230231",
     },
     gelatin: {
         speciesName: "Gelatin",
@@ -19,7 +19,7 @@ const aliens = {
         interestingFact:
             "Have Ability to shape their bodies into whatever physical form they chose to repair themselves whenever damaged, including rejoining separations of their bodies. ",
         notableMembers: ["Yaphit"],
-        image: "/Server Practice/Orville/Alara.webp",
+        image: "https://static.wikia.nocookie.net/orville/images/2/27/EMercer.jpg/revision/latest?cb=20171004230231",
     },
     kaylon: {
         speciesName: "Kaylon",
@@ -28,7 +28,7 @@ const aliens = {
         interestingFact:
             "Kaylons were constructed by a biological species native to Kaylon 1, known as 'Builders' Eventually, leading to their demise.",
         notableMembers: ["Isaac"],
-        image: "/Server Practice/Orville/Alara.webp",
+        image: "https://static.wikia.nocookie.net/orville/images/2/27/EMercer.jpg/revision/latest?cb=20171004230231",
     },
     krill: {
         speciesName: "Krill",
@@ -38,7 +38,7 @@ const aliens = {
         interestingFact:
             "In Krill society, sunlight is a symbol of death, while rain and darkness are symbols of good.",
         notableMembers: ["Anaya", "Korin", "Teleya", "Haros", "Sazeron"],
-        image: "/Server Practice/Orville/Alara.webp",
+        image: "https://static.wikia.nocookie.net/orville/images/2/27/EMercer.jpg/revision/latest?cb=20171004230231",
     },
     moclan: {
         speciesName: "Moclan",
@@ -48,7 +48,7 @@ const aliens = {
         interestingFact:
             "Moclans reproduced by laying eggs. The Moclan government almost always forcibly changed the sex of a female to male shortly after birth.",
         notableMembers: ["Bortus", "Klyden", "Mersa", "Topa"],
-        image: "/Server Practice/Orville/Alara.webp",
+        image: "https://static.wikia.nocookie.net/orville/images/2/27/EMercer.jpg/revision/latest?cb=20171004230231",
     },
     xelayan: {
         speciesName: "Xelayan",
@@ -58,7 +58,7 @@ const aliens = {
         interestingFact:
             "Due to the comparatively high gravity of their home planet, Xelayans enjoyed exceptional strength outside of Xelaya.",
         notableMembers: ["Alara Kitan", "Cambis Borrin", "Serris"],
-        image: "/Server Practice/Orville/Alara.webp",
+        image: "https://static.wikia.nocookie.net/orville/images/2/27/EMercer.jpg/revision/latest?cb=20171004230231",
     },
 };
 app.get("/", (request, response) => {
