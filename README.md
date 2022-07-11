@@ -1,4 +1,4 @@
-#<h1 align="center">Orville (TV Show) Species API | <a href="https://orville-api.herokuapp.com/">Visit here!</a></h1>
+#<h1 align="center">Orville (TV Show) Species API | <a href="https://orville-api.herokuapp.com/" targer = '_blank' >Visit here!</a></h1>
 
 
 <div align="center">
