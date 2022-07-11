@@ -10,7 +10,8 @@ const aliens = {
         features: "rounded ears, hair on head and face (sometimes)",
         interestingFact: "Central member of the Planetary Union",
         notableMembers: ["Ed Mercer", "Claire Finn", "Tucker", "Gordon Malloy"],
-        image: "https://static.wikia.nocookie.net/orville/images/2/27/EMercer.jpg/revision/latest?cb=20171004230231",
+        // image: "https://static.wikia.nocookie.net/orville/images/2/27/EMercer.jpg/revision/latest?cb=20171004230231",
+        image: "img/orville.jpg",
     },
     gelatin: {
         speciesName: "Gelatin",
