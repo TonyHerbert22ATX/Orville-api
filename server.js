@@ -21,7 +21,7 @@ const aliens = {
             "Have Ability to shape their bodies into whatever physical form they chose to repair themselves whenever damaged, including rejoining separations of their bodies. ",
         notableMembers: ["Yaphit"],
         // image: "https://static.wikia.nocookie.net/orville/images/9/9c/Orville-norm-macdonald.jpg/revision/latest/scale-to-width-down/1000?cb=20170922163525",
-        image: "img/gelatin.webp",
+        image: "img/Orville-norm-macdonald.jpg",
     },
     kaylon: {
         speciesName: "Kaylon",
@@ -30,8 +30,8 @@ const aliens = {
         interestingFact:
             "Kaylons were constructed by a biological species native to Kaylon 1, known as 'Builders' Eventually, leading to their demise.",
         notableMembers: ["Isaac"],
-        image: "https://static.wikia.nocookie.net/orville/images/e/ef/Isaac2.jpg/revision/latest/scale-to-width-down/1000?cb=20171002233754",
-        image: "https://static.wikia.nocookie.net/orville/images/e/ef/Isaac2.jpg/revision/latest/scale-to-width-down/1000?cb=20171002233754",
+        // image: "https://static.wikia.nocookie.net/orville/images/e/ef/Isaac2.jpg/revision/latest/scale-to-width-down/1000?cb=20171002233754",
+        image: "img/Kaylon_Secondary.jpg",
     },
     krill: {
         speciesName: "Krill",
@@ -41,8 +41,8 @@ const aliens = {
         interestingFact:
             "In Krill society, sunlight is a symbol of death, while rain and darkness are symbols of good.",
         notableMembers: ["Anaya", "Korin", "Teleya", "Haros", "Sazeron"],
-        image: "https://static.wikia.nocookie.net/orville/images/d/d2/Krill-0.png/revision/latest?cb=20170920225634",
-        image: "https://static.wikia.nocookie.net/orville/images/d/d2/Krill-0.png/revision/latest?cb=20170920225634",
+        // image: "https://static.wikia.nocookie.net/orville/images/d/d2/Krill-0.png/revision/latest?cb=20170920225634",
+        image: "img/Krill-0.jpg",
     },
     moclan: {
         speciesName: "Moclan",
@@ -52,8 +52,8 @@ const aliens = {
         interestingFact:
             "Moclans reproduced by laying eggs. The Moclan government almost always forcibly changed the sex of a female to male shortly after birth.",
         notableMembers: ["Bortus", "Klyden", "Mersa", "Topa"],
-        image: "https://static.wikia.nocookie.net/orville/images/2/2f/Bortus2.jpg/revision/latest/scale-to-width-down/1000?cb=20171006200215",
-        image: "https://static.wikia.nocookie.net/orville/images/2/2f/Bortus2.jpg/revision/latest/scale-to-width-down/1000?cb=20171006200215",
+        // image: "https://static.wikia.nocookie.net/orville/images/2/2f/Bortus2.jpg/revision/latest/scale-to-width-down/1000?cb=20171006200215",
+        image: "img/Bortus2.jpg",
     },
     xelayan: {
         speciesName: "Xelayan",
@@ -63,8 +63,8 @@ const aliens = {
         interestingFact:
             "Due to the comparatively high gravity of their home planet, Xelayans enjoyed exceptional strength outside of Xelaya.",
         notableMembers: ["Alara Kitan", "Cambis Borrin", "Serris"],
-        image: "https://static.wikia.nocookie.net/orville/images/9/90/Alara.jpg/revision/latest/scale-to-width-down/1000?cb=20171002233437",
-        image: "https://static.wikia.nocookie.net/orville/images/9/90/Alara.jpg/revision/latest/scale-to-width-down/1000?cb=20171002233437",
+        // image: "https://static.wikia.nocookie.net/orville/images/9/90/Alara.jpg/revision/latest/scale-to-width-down/1000?cb=20171002233437",
+        image: "img/Alara.jpg",
     },
 };
 app.get("/", (request, response) => {
