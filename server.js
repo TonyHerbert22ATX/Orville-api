@@ -3,7 +3,7 @@ const app = express();
 const cors = require("cors");
 const PORT = 1000;
 app.use(cors());
-
+app.use(express.static("public"));
 
 const aliens = {
     human: {
