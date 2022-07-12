@@ -11,7 +11,7 @@ const aliens = {
         interestingFact: "Central member of the Planetary Union",
         notableMembers: ["Ed Mercer", "Claire Finn", "Tucker", "Gordon Malloy"],
         // image: "https://static.wikia.nocookie.net/orville/images/2/27/EMercer.jpg/revision/latest?cb=20171004230231",
-        image: "img/orville.jpg",
+        image: "/img/Or-s1_21-seth-hallway_2781rcb_hires1-0.jpg",
     },
     gelatin: {
         speciesName: "Gelatin",
@@ -21,7 +21,7 @@ const aliens = {
             "Have Ability to shape their bodies into whatever physical form they chose to repair themselves whenever damaged, including rejoining separations of their bodies. ",
         notableMembers: ["Yaphit"],
         // image: "https://static.wikia.nocookie.net/orville/images/9/9c/Orville-norm-macdonald.jpg/revision/latest/scale-to-width-down/1000?cb=20170922163525",
-        image: "img/Orville-norm-macdonald.jpg",
+        image: "./img/Orville-norm-macdonald.jpg",
     },
     kaylon: {
         speciesName: "Kaylon",
