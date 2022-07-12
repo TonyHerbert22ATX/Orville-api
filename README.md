@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="img/Alara.jpg"/>
+<img src="img/indexAPI.jpg"/>
 
 <p>A database that stores some info on the species in the Planetary Union</p>
 
