@@ -3,6 +3,8 @@ const app = express();
 const cors = require("cors");
 const PORT = 1000;
 app.use(cors());
+
+
 const aliens = {
     human: {
         speciesName: "Humans",
